@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "ibi.tutorial.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
